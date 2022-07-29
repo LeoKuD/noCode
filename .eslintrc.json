@@ -1,0 +1,25 @@
+{
+  "plugins": ["react", "prettier"],
+  "extends": [
+    "react-app",
+    "plugin:react/recommended",
+    "plugin:react-hooks/recommended",
+    "plugin:prettier/recommended",
+    "prettier"
+  ],
+  "rules": {
+    "linebreak-style": ["OFF", "windows"],
+    "react/forbid-prop-types": 0,
+    "no-console": "off",
+    "quotes": ["error", "single"],
+    "prettier/prettier": ["error", { "endOfLine": "auto" }]
+  },
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "extensions": [".js", ".jsx", ".ts", ".tsx"],
+        "moduleDirectory": ["node_modules", "src/"]
+      }
+    }
+  }
+}

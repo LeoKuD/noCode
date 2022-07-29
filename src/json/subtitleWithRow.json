@@ -1,0 +1,603 @@
+{
+  "obj": {
+    "type": "Div",
+    "componentName": "Div",
+    "id": 10,
+    "parentId": 12,
+    "globalId": 21441,
+    "data": {
+      "properties": [],
+      "actions": [],
+      "style": []
+    },
+    "components": [
+      {
+        "obj": {
+          "type": "SubtitleWithRow",
+          "componentName": "SubtitleWithRow",
+          "id": 4341,
+          "parentId": 12712,
+          "globalId": 235352352,
+          "data": {
+            "properties": [],
+            "actions": [],
+            "style": [
+              {
+                "pname": "display",
+                "value": "grid"
+              },
+              {
+                "pname": "grid-template-columns",
+                "value": "14.6% 15.1% 17.2% 15.1% 15.1% 8.6% 10.8% 3.4%"
+              },
+              {
+                "pname": "align-items",
+                "value": "center"
+              },
+              {
+                "pname": "width",
+                "value": "100%"
+              },
+              {
+                "pname": "box-sizing",
+                "value": "border-box"
+              },
+              {
+                "pname": "height",
+                "value": "2rem"
+              },
+              {
+                "pname": "margin-top",
+                "value": "1rem"
+              }
+            ]
+          },
+          "components": [
+            {
+              "obj": {
+                "type": "Div",
+                "componentName": "Div",
+                "id": 6443786,
+                "parentid": 342547323,
+                "data": {
+                  "properties": [
+                    {
+                      "pname": "text",
+                      "value": "Контрагент"
+                    }
+                  ],
+                  "actions": [],
+                  "style": []
+                },
+                "components": [],
+                "globalId": 6266186
+              }
+            },
+            {
+              "obj": {
+                "type": "Div",
+                "componentName": "Div",
+                "id": 6443786,
+                "parentid": 342547323,
+                "data": {
+                  "properties": [
+                    {
+                      "pname": "text",
+                      "value": "Стадия"
+                    }
+                  ],
+                  "actions": [],
+                  "style": []
+                },
+                "components": [],
+                "globalId": 626116
+              }
+            },
+            {
+              "obj": {
+                "type": "Div",
+                "componentName": "Div",
+                "id": 6443786,
+                "parentid": 342547323,
+                "data": {
+                  "properties": [
+                    {
+                      "pname": "text",
+                      "value": "ФИО"
+                    }
+                  ],
+                  "actions": [],
+                  "style": []
+                },
+                "components": [],
+                "globalId": 62663340926
+              }
+            },
+            {
+              "obj": {
+                "type": "Div",
+                "componentName": "Div",
+                "id": 6443786,
+                "parentid": 342547323,
+                "data": {
+                  "properties": [
+                    {
+                      "pname": "text",
+                      "value": "Email"
+                    }
+                  ],
+                  "actions": [],
+                  "style": []
+                },
+                "components": [],
+                "globalId": 2353888881421
+              }
+            },
+            {
+              "obj": {
+                "type": "Div",
+                "componentName": "Div",
+                "id": 6443786,
+                "parentid": 342547323,
+                "data": {
+                  "properties": [
+                    {
+                      "pname": "text",
+                      "value": "Телефон"
+                    }
+                  ],
+                  "actions": [],
+                  "style": []
+                },
+                "components": [],
+                "globalId": 1313131
+              }
+            },
+            {
+              "obj": {
+                "type": "Div",
+                "componentName": "Div",
+                "id": 6443786,
+                "parentid": 342547323,
+                "data": {
+                  "properties": [
+                    {
+                      "pname": "text",
+                      "value": "Тэг"
+                    }
+                  ],
+                  "actions": [],
+                  "style": []
+                },
+                "components": [],
+                "globalId": 13131441321
+              }
+            },
+            {
+              "obj": {
+                "type": "Div",
+                "componentName": "Div",
+                "id": 6443786,
+                "parentid": 342547323,
+                "data": {
+                  "properties": [
+                    {
+                      "pname": "text",
+                      "value": "Статус"
+                    }
+                  ],
+                  "actions": [],
+                  "style": []
+                },
+                "components": [],
+                "globalId": 325325325
+              }
+            },
+            {
+              "obj": {
+                "type": "MUIEyeIcon",
+                "componentName": "MUIEyeIcon",
+                "id": 21141246,
+                "parentid": 22453453,
+                "globalId": 98141451516,
+                "components": [],
+                "data": {
+                  "properties": [],
+                  "actions": [],
+                  "style": [
+                    {
+                      "pname": "color",
+                      "value": "#625B71"
+                    },
+                    {
+                      "pname": "cursor",
+                      "value": "pointer"
+                    },
+                    {
+                      "pname": "&",
+                      "value": "hover {color: #5C5CFF}"
+                    },
+                    {
+                      "pname": "margin",
+                      "value": "0 auto"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "obj": {
+          "type": "TableRow",
+          "componentName": "TableRow",
+          "id": 4341,
+          "parentId": 12712,
+          "globalId": 134234512,
+          "data": {
+            "properties": [],
+            "actions": [],
+            "style": [
+              {
+                "pname": "display",
+                "value": "grid"
+              },
+              {
+                "pname": "grid-template-columns",
+                "value": "14.6% 15.1% 17.2% 15.1% 15.1% 8.6% 10.8% 3.4%"
+              },
+              {
+                "pname": "align-items",
+                "value": "center"
+              },
+              {
+                "pname": "width",
+                "value": "100%"
+              },
+              {
+                "pname": "padding",
+                "value": "0.5625rem 0"
+              },
+              {
+                "pname": "box-sizing",
+                "value": "border-box"
+              },
+              {
+                "pname": "&",
+                "value": "hover {background-color: #F8F8F8}"
+              }
+            ]
+          },
+          "components": [
+            {
+              "obj": {
+                "type": "LinkTextCustom",
+                "componentName": "LinkTextCustom",
+                "id": 6443786,
+                "parentid": 342547323,
+                "data": {
+                  "properties": [
+                    {
+                      "pname": "underline",
+                      "value": "hover"
+                    },
+                    {
+                      "pname": "href",
+                      "value": "#"
+                    },
+                    {
+                      "pname": "label",
+                      "value": "Dreamsoft"
+                    }
+                  ],
+                  "actions": [],
+                  "style": [
+                    {
+                      "pname": "color",
+                      "value": "#5C5CFF"
+                    },
+                    {
+                      "pname": "font-size",
+                      "value": "1rem"
+                    }
+                  ]
+                },
+                "components": [],
+                "globalId": 563462352
+              }
+            },
+            {
+              "obj": {
+                "type": "ProgressBar",
+                "componentName": "ProgressBar",
+                "id": 10041,
+                "parentId": 1214312,
+                "components": [],
+                "globalId": 211230234,
+                "data": {
+                  "properties": [
+                    {
+                      "pname": "value",
+                      "value": "75"
+                    },
+                    {
+                      "pname": "variant",
+                      "value": "determinate"
+                    }
+                  ],
+                  "actions": [],
+                  "style": [
+                    {
+                      "pname": "color",
+                      "value": "primary"
+                    },
+                    {
+                      "pname": "width",
+                      "value": "8.25rem"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "obj": {
+                "type": "Div",
+                "componentName": "Div",
+                "id": 23245523,
+                "parentId": null,
+                "globalId": 23925,
+                "data": {
+                  "properties": [],
+                  "actions": [],
+                  "style": [
+                    {
+                      "pname": "display",
+                      "value": "flex"
+                    }
+                  ]
+                },
+                "components": [
+                  {
+                    "obj": {
+                      "type": "AvatarWithBadge",
+                      "componentName": "AvatarWithBadge",
+                      "id": 125,
+                      "parentId": 12,
+                      "components": [],
+                      "globalId": 2469,
+                      "data": {
+                        "properties": [
+                          {
+                            "pname": "src",
+                            "value": "/avatar56.png"
+                          }
+                        ],
+                        "actions": [],
+                        "style": [
+                          {
+                            "pname": "width",
+                            "value": "2.5rem"
+                          },
+                          {
+                            "pname": "height",
+                            "value": "2.5rem"
+                          },
+                          {
+                            "pname": "margin-right",
+                            "value": "0.5rem"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "obj": {
+                      "type": "LinkTextCustom",
+                      "componentName": "LinkTextCustom",
+                      "id": 6443786,
+                      "parentid": 342547323,
+                      "data": {
+                        "properties": [
+                          {
+                            "pname": "underline",
+                            "value": "hover"
+                          },
+                          {
+                            "pname": "href",
+                            "value": "#"
+                          },
+                          {
+                            "pname": "label",
+                            "value": "Медведева Яна"
+                          }
+                        ],
+                        "actions": [],
+                        "style": [
+                          {
+                            "pname": "color",
+                            "value": "#5C5CFF"
+                          },
+                          {
+                            "pname": "font-size",
+                            "value": "1rem"
+                          }
+                        ]
+                      },
+                      "components": [],
+                      "globalId": 235235362
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "obj": {
+                "type": "TextManaged",
+                "componentName": "TextManaged",
+                "id": 154,
+                "parentId": 13,
+                "globalId": 534534343214532,
+                "components": [],
+                "data": {
+                  "properties": [
+                    {
+                      "pname": "textValue",
+                      "value": "alehin38@hotmail.com"
+                    }
+                  ],
+                  "actions": [],
+                  "style": [
+                    {
+                      "pname": "color",
+                      "value": "#1C1B1F"
+                    },
+                    {
+                      "pname": "fontFamily",
+                      "value": "Georgia"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "obj": {
+                "type": "TextManaged",
+                "componentName": "TextManaged",
+                "id": 154,
+                "parentId": 13,
+                "globalId": 434343213,
+                "components": [],
+                "data": {
+                  "properties": [
+                    {
+                      "pname": "textValue",
+                      "value": "+7 (489) 480–39–66"
+                    }
+                  ],
+                  "actions": [],
+                  "style": [
+                    {
+                      "pname": "color",
+                      "value": "#1C1B1F"
+                    },
+                    {
+                      "pname": "fontFamily",
+                      "value": "Georgia"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "obj": {
+                "type": "TagCustom",
+                "componentName": "TagCustom",
+                "id": 612323681,
+                "parentid": 6416332251513,
+                "components": [],
+                "globalId": 664553242165186,
+                "data": {
+                  "properties": [
+                    {
+                      "pname": "label",
+                      "value": "VIP"
+                    },
+                    {
+                      "pname": "variant",
+                      "value": "hovering"
+                    },
+                    {
+                      "pname": "iconhover",
+                      "value": "#1C1B1F"
+                    }
+                  ],
+                  "actions": [],
+                  "style": [
+                    {
+                      "pname": "color",
+                      "value": "#1C1B1F"
+                    },
+                    {
+                      "pname": "background",
+                      "value": "none"
+                    },
+                    {
+                      "pname": "border",
+                      "value": "1px solid transparent"
+                    },
+                    {
+                      "pname": "&",
+                      "value": "hover {color: #1C1B1F; background: #FFF; border-color: #1C1B1F;}"
+                    },
+                    {
+                      "pname": "max-width",
+                      "value": "50%"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "obj": {
+                "type": "TextManaged",
+                "componentName": "TextManaged",
+                "id": 154,
+                "parentId": 13,
+                "globalId": 6666665433214557897543,
+                "components": [],
+                "data": {
+                  "properties": [
+                    {
+                      "pname": "textValue",
+                      "value": "В работе"
+                    }
+                  ],
+                  "actions": [],
+                  "style": [
+                    {
+                      "pname": "color",
+                      "value": "#1C1B1F"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "obj": {
+                "type": "MUIDotsIcon",
+                "componentName": "MUIDotsIcon",
+                "id": 21141246,
+                "parentid": 22453453,
+                "globalId": 98141451516,
+                "components": [],
+                "data": {
+                  "properties": [],
+                  "actions": [],
+                  "style": [
+                    {
+                      "pname": "color",
+                      "value": "#1C1B1F"
+                    },
+                    {
+                      "pname": "cursor",
+                      "value": "pointer"
+                    },
+                    {
+                      "pname": "&",
+                      "value": "hover {color: #5C5CFF}"
+                    },
+                    {
+                      "pname": "margin",
+                      "value": "0 auto"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

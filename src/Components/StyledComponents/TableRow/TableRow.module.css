@@ -1,0 +1,8 @@
+.container > div {
+  padding-left: 0.5rem;
+  box-sizing: border-box;
+}
+
+.container div:nth-child(6) {
+  padding-left: 0;
+}

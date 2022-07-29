@@ -1,0 +1,13 @@
+.container > div {
+  color: #787579;
+  border-right: 1px solid #e6e1e5;
+  box-sizing: border-box;
+  padding-left: 0.5rem;
+  height: 100%;
+  font-size: 0.75rem;
+  display: flex;
+  align-items: center;
+  cursor: default;
+  /* height: 100%; */
+  /* align-self: center; */
+}
